@@ -8,7 +8,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>nowplayingchecker</name>
+    <name>NowPlayingChecker</name>
     <description>Check the Now Playing Feeds of Various Radio Stations</description>
 
     <parent>
